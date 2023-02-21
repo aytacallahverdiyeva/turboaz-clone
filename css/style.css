@@ -1,0 +1,131 @@
+.gray{
+    width: 100%;
+    text-decoration: none;
+    background-color: white;
+    padding: 0px 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    text-align: center;
+}
+ul{
+    list-style-type: none;
+}
+ul.hr{
+    margin: 0px;
+    padding: 4px;
+}
+ul.hr li{
+    display: inline;
+    margin-right: 4px;
+}
+a.style{
+    color: #8d94ad;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    text-decoration-line: none;
+}
+.red{
+    background-color: #CA1016;
+    margin: 0 auto;
+    padding: 0px 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    line-height: 1.2;
+    align-items: center;
+    width: 100%;
+    height: 60px;
+}
+.black-color{
+    color: black;
+}
+.img-logo-style{
+    padding: 23px 25px 23px 0px;
+    box-sizing: border-box;
+    height: 100%;
+    line-height: 1.2;
+}
+.style-for-button{
+    padding: 0px 10px;
+    margin: 0px 0px 0px 298px;
+    height: 40px;
+    border-radius: 7px;
+    border-color: #7ED321;
+    background-color: #7ED321;
+    text-decoration: none;
+    text-align: center;
+    font-weight: 500;
+    vertical-align: baseline;
+    box-shadow: none;
+}
+.style-for-buttons-a{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+.icon-plus-circled{
+    margin: 0px 7px 0px 0px;
+}
+.styling-img{
+    font-size: 15px;
+    width: 94.36px;
+    height: 14px;
+}
+.style2{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+.for-padding{
+    padding: 21px 15px 21px 15px;
+}
+.destek{
+    margin: 0px 0px 0px 143px;
+}
+#navbar3{
+    padding: 20px 20px 20px 20px;
+    background-color:  #ebedf3;
+    width: 100%;
+    height: 209px;
+}
+.inputs{
+    margin: 0px 40px 0px 0px;
+    padding: 0px 20px 0px 20px;
+    width: 100%;
+    height: 145px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+input{
+    height: 46px;
+    padding: 0px 30px 0px 10px;
+    border: 1px solid #dfe3e9;
+    border-radius: 7px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#min-qiymet{
+    width: 70px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+#maks-qiymet{
+    width: 70px;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+.top{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+.div #min-qiymet #maks-qiymet #ban #year-min #year-max{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
